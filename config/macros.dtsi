@@ -1,6 +1,6 @@
-macro_alt+space: macro_alt+space{
+macro_alt_space: macro_alt_space{
 compatible = "zmk,behavior-macro";
-label = "macro_alt+space";
+label = "macro_alt_space";
 #binding-cells = <0>;
 bindings = <&kp LEFT_ALT>, <&kp SPACE>;
 };
